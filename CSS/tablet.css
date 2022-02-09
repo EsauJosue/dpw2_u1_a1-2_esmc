@@ -1,0 +1,22 @@
+/*
+Alumno: ESAU JOSUE MARTINEZ CARRASCO
+UNIVERSIDAD ABIERTA Y A DISTANCIA DE MÉXICO
+ING. EN DESARROLLO DE SOFTWARE
+PROGRAMACION WEB II
+*/
+
+.main-tables-container{
+    display: flex;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider{
+    justify-content: center;
+}
